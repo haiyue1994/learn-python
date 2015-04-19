@@ -10,7 +10,7 @@
 ###########代码##########
 def main()
     R,A,B=input("请输入R，A，B")
-	    X1=5/2*R*A  #A为温度  
-		X2=5/2*R*B  #B为温度
-		print "内能X1"，X1
-		print "内能X2"，X2
+    X1=5.0/2.0*R*A  #A为温度  
+    X2=5.0/2.0*R*B  #B为温度
+    print "内能X1",X1
+    print "内能X2",X2
